@@ -12,7 +12,7 @@ HTML, CSS, JavaScript, PHP, Node.js, SQL, Git, WordPress, Squarespace
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [GStore-App](https://github.com/GSoftware-GS/GStore-App) | Collection of small browser tools that run without installs, servers or tracking | HTML, CSS, JavaScript |
+| [GStore-App](https://github.com/GSoftware-GS/GStore-App) | Nine small browser tools. Files are processed in the page and not uploaded | HTML, CSS, JavaScript |
 | [SnapQR](https://github.com/GSoftware-GS/SnapQR) | QR code generator that runs fully in the browser | HTML, CSS, JavaScript |
 | [Generador-Noticias-LLM](https://github.com/GSoftware-GS/Generador-Noticias-LLM) | DAW final project. PHP app that drafts car blog posts from RSS feeds with GPT-4 and publishes them to WordPress | PHP, OpenAI API, WordPress |
 | [ClubBoxeo](https://github.com/GSoftware-GS/ClubBoxeo) | Gym management app with admin and member roles and appointment booking | PHP |
@@ -22,4 +22,5 @@ The older repos are mostly Python experiments from when I was learning: voice as
 ## Contact
 
 - Email: gsanchezcalvente@gmail.com
+- Portfolio: [linkedln-gswebdeveloper.netlify.app](https://linkedln-gswebdeveloper.netlify.app/)
 - LinkedIn: [gs-webdesigner](https://www.linkedin.com/in/gs-webdesigner/)
