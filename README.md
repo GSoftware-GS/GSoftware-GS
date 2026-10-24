@@ -35,6 +35,7 @@ I am looking for a junior web developer role.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[Susurro](https://github.com/GSoftware-GS/Susurro)** · [live demo](https://susurro-chat.netlify.app/) | End-to-end encrypted chat that installs as a PWA. Messages are signed and encrypted with OpenPGP and delivered through Nostr relays, with no accounts and no chat server | JavaScript, OpenPGP.js, Nostr, PWA |
 | **[GStore-App](https://github.com/GSoftware-GS/GStore-App)** | Nine small browser tools. Files are processed in the page and not uploaded | HTML, CSS, JavaScript |
 | **[SnapQR](https://github.com/GSoftware-GS/SnapQR)** | QR code generator that runs fully in the browser | HTML, CSS, JavaScript |
 | **[Generador-Noticias-LLM](https://github.com/GSoftware-GS/Generador-Noticias-LLM)** | DAW final project. PHP app that drafts car blog posts from RSS feeds with GPT-4 and publishes them to WordPress | PHP, OpenAI API, WordPress |
